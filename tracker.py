@@ -28,7 +28,7 @@ print("Your total calorie intake:",total_calorie)
 avg_intake=float(total_calorie/n)#calculating and printing the avg calories
 print(f"AVG Intake:{avg_intake:.2f}")
 if(cal_limit<total_calorie):#checking if the user has gone over their recommended calories or not
-    print("Warning: you have exceeded your daily calorie intake\nplease take food in moderation or you will be diseased with \n Cardiovascular problems \n obesity \n or worst case cardiac arrest")
+    print("Warning: you have exceeded your daily calorie intake")
 else:
     print("Congrats on controlling your Daily Calorie Intake,keep up the good work")
 bonus=input("do you want to save this report?Answer in yes or no only")#bonus task,asking for report and making the file 
