@@ -1,0 +1,9 @@
+	 Meal Name			Calories		Meal Taken At
+------------------------------------------------------------------------------
+	1.dead        			200 			23:00     
+	2.food        			200 			12:00     
+	3.40 burgers  			2000			12:00     
+Your total calorie intake: 2400
+AVG Intake:800.00
+Your BMR: 12000
+Congrats on controlling your Daily Calorie Intake,keep up the good work
